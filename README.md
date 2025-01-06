@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3676-smallest-number-with-all-set-bits](https://github.com/cristian20021/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+## String
+|  |
+| ------- |
+| [2365-percentage-of-letter-in-string](https://github.com/cristian20021/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
 <!---LeetCode Topics End-->
