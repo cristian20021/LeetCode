@@ -4,9 +4,12 @@ class Solution(object):
         fin = []
         for j in range(len(s)):
                 minn = 999 
-                for x in indices:
-                    if abs(j-x) < minn:
-                        minn = abs(j-x)
+                if s[j] == c:
+                    fin.append(0)
+                else:
+                    for x in indices:
+                        if abs(j-x) < minn:
+                            minn = abs(j-x)
 
-                fin.append(minn)     
+                    fin.append(minn)     
         return fin
