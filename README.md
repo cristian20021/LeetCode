@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/cristian20021/LeetCode/tree/master/0050-powx-n) |
 | [1236-n-th-tribonacci-number](https://github.com/cristian20021/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/cristian20021/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/cristian20021/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/cristian20021/LeetCode/tree/master/0100-same-tree) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/cristian20021/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
