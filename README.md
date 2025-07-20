@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/cristian20021/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/cristian20021/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/cristian20021/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/cristian20021/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/cristian20021/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/cristian20021/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/cristian20021/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/cristian20021/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/cristian20021/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/cristian20021/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/cristian20021/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/cristian20021/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/cristian20021/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
