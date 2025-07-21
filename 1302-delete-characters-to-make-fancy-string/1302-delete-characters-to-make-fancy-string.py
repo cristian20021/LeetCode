@@ -1,12 +1,16 @@
 class Solution(object):
     def makeFancyString(self, s):
         
-        newS = ''
-        if len(s)<3:
-            return s
-        for i in range(len(s)-2):
-            if s[i]==s[i+1] and s[i+1] == s[i+2]:
-                pass
+        count = 0
+        newS = s[0]
+        for i in range(1,len(s)):
+            if s[i] == s[i-1]:
+                count+=1
+                if count > 1:
+                    pass
+                else:
+                    newS+=s[i]
             else:
+                count = 0
                 newS+=s[i]
-        return newS+s[-2]+s[-1]
+        return newS
