@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/cristian20021/LeetCode/tree/master/0011-container-with-most-water) |
 | [0485-max-consecutive-ones](https://github.com/cristian20021/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/cristian20021/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0841-shortest-distance-to-a-character](https://github.com/cristian20021/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0890-lemonade-change](https://github.com/cristian20021/LeetCode/tree/master/0890-lemonade-change) |
 | [0958-sort-array-by-parity-ii](https://github.com/cristian20021/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/cristian20021/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/cristian20021/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/cristian20021/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/cristian20021/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/cristian20021/LeetCode/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
