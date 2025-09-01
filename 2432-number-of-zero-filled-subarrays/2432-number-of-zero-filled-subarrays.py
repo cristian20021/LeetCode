@@ -1,8 +1,6 @@
 class Solution(object):
     
 
-# perm = permutations([1, 2, 3])
-
     def zeroFilledSubarray(self, nums):
         count = 0
         streak = 0
