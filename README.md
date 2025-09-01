@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/cristian20021/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/cristian20021/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/cristian20021/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/cristian20021/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3194-find-words-containing-character](https://github.com/cristian20021/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/cristian20021/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/cristian20021/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/cristian20021/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/cristian20021/LeetCode/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/cristian20021/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/cristian20021/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2998-count-symmetric-integers](https://github.com/cristian20021/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/cristian20021/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/cristian20021/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
