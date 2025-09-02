@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/cristian20021/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/cristian20021/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/cristian20021/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/cristian20021/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/cristian20021/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/cristian20021/LeetCode/tree/master/0011-container-with-most-water) |
 | [0890-lemonade-change](https://github.com/cristian20021/LeetCode/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/cristian20021/LeetCode/tree/master/1448-maximum-69-number) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/cristian20021/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/cristian20021/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/cristian20021/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/cristian20021/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/cristian20021/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
 | ------- |
