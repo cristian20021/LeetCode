@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/cristian20021/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/cristian20021/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/cristian20021/LeetCode/tree/master/0326-power-of-three) |
 | [0856-consecutive-numbers-sum](https://github.com/cristian20021/LeetCode/tree/master/0856-consecutive-numbers-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/cristian20021/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/cristian20021/LeetCode/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/cristian20021/LeetCode/tree/master/0461-hamming-distance) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/cristian20021/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/cristian20021/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/cristian20021/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/cristian20021/LeetCode/tree/master/0326-power-of-three) |
 ## Linked List
 |  |
