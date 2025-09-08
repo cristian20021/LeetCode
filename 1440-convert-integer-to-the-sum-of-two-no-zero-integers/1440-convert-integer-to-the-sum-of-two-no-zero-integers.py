@@ -6,7 +6,5 @@ class Solution(object):
         return True
     def getNoZeroIntegers(self, n):
         for i in range(1,n):
-            iLocal = self.containZeros(str(i))
-            restLocal = self.containZeros(str(n-i))
-            if iLocal == True and restLocal == True:
+            if self.containZeros(str(i)) and self.containZeros(str(n-i)):
                 return [i,n-i]
