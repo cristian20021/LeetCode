@@ -1,23 +1,13 @@
 class Solution:
     def getLeastFrequentDigit(self, n: int) -> int:
         s = str(n)
-        k = len(s)
-        freq = {}
-        
-        for i in range(k):
-            digit = int(s[i])
-            if digit in freq:
-                freq[digit] += 1
-            else:
-                freq[digit] = 1
-        
-        minfreq = float('inf')
-        for key, value in freq.items():
-            minfreq = min(minfreq, value)
-        
-        result = 10
-        for key, value in freq.items():
-            if value == minfreq:
-                result = min(result, key)
-        
-        return result
+        smallnum = int(max(s))
+        count = len(s)
+
+        for i in s:
+            temp_count = s.count(i)
+
+            if temp_count < count or (temp_count == count and int(i) < smallnum):
+                count = temp_count
+                smallnum = int(i)
+        return smallnum
