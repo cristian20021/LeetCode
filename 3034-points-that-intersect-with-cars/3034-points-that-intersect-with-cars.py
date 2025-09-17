@@ -3,8 +3,9 @@ class Solution(object):
         toRet = []
         for i in range(len(nums)):
             for j in range(nums[i][0],nums[i][1]+1):
-                toRet.append(j)
+                if j not in toRet:
+                    toRet.append(j)
         
-        a = list(set(toRet))
-        return len(a)
+        
+        return len(toRet)
         
