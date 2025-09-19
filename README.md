@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/cristian20021/LeetCode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/cristian20021/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/cristian20021/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/cristian20021/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/cristian20021/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/cristian20021/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/cristian20021/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/cristian20021/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/cristian20021/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/cristian20021/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/cristian20021/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2887-sort-vowels-in-a-string](https://github.com/cristian20021/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Math
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/cristian20021/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/cristian20021/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/cristian20021/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/cristian20021/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/cristian20021/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/cristian20021/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/cristian20021/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/cristian20021/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/cristian20021/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/cristian20021/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/cristian20021/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/cristian20021/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
