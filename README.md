@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/cristian20021/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/cristian20021/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/cristian20021/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/cristian20021/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/cristian20021/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/cristian20021/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/cristian20021/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/cristian20021/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0841-shortest-distance-to-a-character](https://github.com/cristian20021/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0958-sort-array-by-parity-ii](https://github.com/cristian20021/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/cristian20021/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/cristian20021/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2481-strictly-palindromic-number](https://github.com/cristian20021/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Sorting
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/cristian20021/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/cristian20021/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0958-sort-array-by-parity-ii](https://github.com/cristian20021/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/cristian20021/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/cristian20021/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/cristian20021/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/cristian20021/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/cristian20021/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/cristian20021/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/cristian20021/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/cristian20021/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/cristian20021/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/cristian20021/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/cristian20021/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/cristian20021/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/cristian20021/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/cristian20021/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/cristian20021/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
