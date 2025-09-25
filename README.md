@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/cristian20021/LeetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/cristian20021/LeetCode/tree/master/0049-group-anagrams) |
+| [0120-triangle](https://github.com/cristian20021/LeetCode/tree/master/0120-triangle) |
 | [0485-max-consecutive-ones](https://github.com/cristian20021/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/cristian20021/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/cristian20021/LeetCode/tree/master/0500-keyboard-row) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/cristian20021/LeetCode/tree/master/0120-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/cristian20021/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cristian20021/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1764-maximum-repeating-substring](https://github.com/cristian20021/LeetCode/tree/master/1764-maximum-repeating-substring) |
