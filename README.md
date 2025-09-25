@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/cristian20021/LeetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/cristian20021/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/cristian20021/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/cristian20021/LeetCode/tree/master/0120-triangle) |
 | [0485-max-consecutive-ones](https://github.com/cristian20021/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/cristian20021/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/cristian20021/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/cristian20021/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0500-keyboard-row](https://github.com/cristian20021/LeetCode/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/cristian20021/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/cristian20021/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/cristian20021/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/cristian20021/LeetCode/tree/master/0498-diagonal-traverse) |
 ## Sliding Window
 |  |
