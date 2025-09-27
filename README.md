@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/cristian20021/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/cristian20021/LeetCode/tree/master/0598-range-addition-ii) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/cristian20021/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0830-largest-triangle-area](https://github.com/cristian20021/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/cristian20021/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0879-maximize-distance-to-closest-person](https://github.com/cristian20021/LeetCode/tree/master/0879-maximize-distance-to-closest-person) |
 | [0890-lemonade-change](https://github.com/cristian20021/LeetCode/tree/master/0890-lemonade-change) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/cristian20021/LeetCode/tree/master/0326-power-of-three) |
 | [0598-range-addition-ii](https://github.com/cristian20021/LeetCode/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/cristian20021/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0830-largest-triangle-area](https://github.com/cristian20021/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0856-consecutive-numbers-sum](https://github.com/cristian20021/LeetCode/tree/master/0856-consecutive-numbers-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/cristian20021/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/cristian20021/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/cristian20021/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/cristian20021/LeetCode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
