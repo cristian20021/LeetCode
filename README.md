@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/cristian20021/LeetCode/tree/master/0890-lemonade-change) |
 | [0958-sort-array-by-parity-ii](https://github.com/cristian20021/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/cristian20021/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1018-largest-perimeter-triangle](https://github.com/cristian20021/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/cristian20021/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/cristian20021/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/cristian20021/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/cristian20021/LeetCode/tree/master/0011-container-with-most-water) |
 | [0890-lemonade-change](https://github.com/cristian20021/LeetCode/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/cristian20021/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/cristian20021/LeetCode/tree/master/1448-maximum-69-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/cristian20021/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/cristian20021/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/cristian20021/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/cristian20021/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0958-sort-array-by-parity-ii](https://github.com/cristian20021/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/cristian20021/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/cristian20021/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/cristian20021/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/cristian20021/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/cristian20021/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0830-largest-triangle-area](https://github.com/cristian20021/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0856-consecutive-numbers-sum](https://github.com/cristian20021/LeetCode/tree/master/0856-consecutive-numbers-sum) |
+| [1018-largest-perimeter-triangle](https://github.com/cristian20021/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/cristian20021/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/cristian20021/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/cristian20021/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
