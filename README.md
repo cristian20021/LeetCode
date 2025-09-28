@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/cristian20021/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/cristian20021/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/cristian20021/LeetCode/tree/master/1448-maximum-69-number) |
+| [1585-the-kth-factor-of-n](https://github.com/cristian20021/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/cristian20021/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/cristian20021/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/cristian20021/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -312,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/cristian20021/LeetCode/tree/master/0830-largest-triangle-area) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/cristian20021/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
