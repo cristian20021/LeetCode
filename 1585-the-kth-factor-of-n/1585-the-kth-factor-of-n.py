@@ -4,7 +4,6 @@ class Solution(object):
         for i in range(1,n+1):
             if n%i == 0:
                 factors.append(i)
-        try:
-            return factors[k-1]
-        except:
+        if len(factors)<k:
             return -1
+        return factors[k-1]
