@@ -11,8 +11,6 @@ class Solution(object):
             j+=1
         if len(localArr) != 0:
             return localArr
-
-
     def groupThePeople(self, groupSizes):
         fin = []
         for i in range(len(groupSizes)):
@@ -22,5 +20,4 @@ class Solution(object):
                     fin.append(loc)
             except:
                 pass
-
         return fin
