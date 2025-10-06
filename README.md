@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/cristian20021/LeetCode/tree/master/0050-powx-n) |
+| [0168-excel-sheet-column-title](https://github.com/cristian20021/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/cristian20021/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/cristian20021/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/cristian20021/LeetCode/tree/master/0326-power-of-three) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/cristian20021/LeetCode/tree/master/0049-group-anagrams) |
+| [0168-excel-sheet-column-title](https://github.com/cristian20021/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0500-keyboard-row](https://github.com/cristian20021/LeetCode/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/cristian20021/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0841-shortest-distance-to-a-character](https://github.com/cristian20021/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
