@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/cristian20021/LeetCode/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/cristian20021/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/cristian20021/LeetCode/tree/master/0598-range-addition-ii) |
+| [0611-valid-triangle-number](https://github.com/cristian20021/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/cristian20021/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0830-largest-triangle-area](https://github.com/cristian20021/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/cristian20021/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/cristian20021/LeetCode/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/cristian20021/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0890-lemonade-change](https://github.com/cristian20021/LeetCode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/cristian20021/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/cristian20021/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/cristian20021/LeetCode/tree/master/0011-container-with-most-water) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/cristian20021/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0611-valid-triangle-number](https://github.com/cristian20021/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/cristian20021/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0841-shortest-distance-to-a-character](https://github.com/cristian20021/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0958-sort-array-by-parity-ii](https://github.com/cristian20021/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/cristian20021/LeetCode/tree/master/0049-group-anagrams) |
 | [0594-longest-harmonious-subsequence](https://github.com/cristian20021/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/cristian20021/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/cristian20021/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0958-sort-array-by-parity-ii](https://github.com/cristian20021/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/cristian20021/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/cristian20021/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/cristian20021/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/cristian20021/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/cristian20021/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
