@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/cristian20021/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/cristian20021/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2486-most-frequent-even-element](https://github.com/cristian20021/LeetCode/tree/master/2486-most-frequent-even-element) |
+| [2694-find-the-maximum-divisibility-score](https://github.com/cristian20021/LeetCode/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/cristian20021/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2836-neither-minimum-nor-maximum](https://github.com/cristian20021/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3034-points-that-intersect-with-cars](https://github.com/cristian20021/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
