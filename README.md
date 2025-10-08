@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/cristian20021/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/cristian20021/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/cristian20021/LeetCode/tree/master/0326-power-of-three) |
+| [0593-valid-square](https://github.com/cristian20021/LeetCode/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/cristian20021/LeetCode/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/cristian20021/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0830-largest-triangle-area](https://github.com/cristian20021/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/cristian20021/LeetCode/tree/master/0593-valid-square) |
 | [0830-largest-triangle-area](https://github.com/cristian20021/LeetCode/tree/master/0830-largest-triangle-area) |
 ## Number Theory
 |  |
