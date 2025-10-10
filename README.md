@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/cristian20021/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/cristian20021/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/cristian20021/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/cristian20021/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/cristian20021/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/cristian20021/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/cristian20021/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/cristian20021/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/cristian20021/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3034-points-that-intersect-with-cars](https://github.com/cristian20021/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/cristian20021/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/cristian20021/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/cristian20021/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/cristian20021/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
