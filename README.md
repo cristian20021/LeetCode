@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/cristian20021/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2836-neither-minimum-nor-maximum](https://github.com/cristian20021/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3034-points-that-intersect-with-cars](https://github.com/cristian20021/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/cristian20021/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/cristian20021/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3194-find-words-containing-character](https://github.com/cristian20021/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/cristian20021/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
