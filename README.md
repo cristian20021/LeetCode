@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/cristian20021/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/cristian20021/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/cristian20021/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2350-find-closest-number-to-zero](https://github.com/cristian20021/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/cristian20021/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/cristian20021/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/cristian20021/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
