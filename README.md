@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/cristian20021/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/cristian20021/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/cristian20021/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3799-unique-3-digit-even-numbers](https://github.com/cristian20021/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/cristian20021/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/cristian20021/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/cristian20021/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/cristian20021/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3799-unique-3-digit-even-numbers](https://github.com/cristian20021/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/cristian20021/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/cristian20021/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/cristian20021/LeetCode/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/cristian20021/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/cristian20021/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-consecutive-numbers-sum](https://github.com/cristian20021/LeetCode/tree/master/0856-consecutive-numbers-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/cristian20021/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/cristian20021/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3799-unique-3-digit-even-numbers](https://github.com/cristian20021/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
