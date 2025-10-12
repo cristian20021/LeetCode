@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/cristian20021/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/cristian20021/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/cristian20021/LeetCode/tree/master/0326-power-of-three) |
+| [0441-arranging-coins](https://github.com/cristian20021/LeetCode/tree/master/0441-arranging-coins) |
 | [0593-valid-square](https://github.com/cristian20021/LeetCode/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/cristian20021/LeetCode/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/cristian20021/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/cristian20021/LeetCode/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/cristian20021/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/cristian20021/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0794-swim-in-rising-water](https://github.com/cristian20021/LeetCode/tree/master/0794-swim-in-rising-water) |
