@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/cristian20021/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3799-unique-3-digit-even-numbers](https://github.com/cristian20021/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/cristian20021/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/cristian20021/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/cristian20021/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3799-unique-3-digit-even-numbers](https://github.com/cristian20021/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/cristian20021/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/cristian20021/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Counting
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/cristian20021/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/cristian20021/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/cristian20021/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/cristian20021/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
