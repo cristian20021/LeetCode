@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/cristian20021/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/cristian20021/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2486-most-frequent-even-element](https://github.com/cristian20021/LeetCode/tree/master/2486-most-frequent-even-element) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/cristian20021/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/cristian20021/LeetCode/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/cristian20021/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2836-neither-minimum-nor-maximum](https://github.com/cristian20021/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/cristian20021/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/cristian20021/LeetCode/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/cristian20021/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/cristian20021/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/cristian20021/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/cristian20021/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/cristian20021/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/cristian20021/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/cristian20021/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/cristian20021/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/cristian20021/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/cristian20021/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/cristian20021/LeetCode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [2998-count-symmetric-integers](https://github.com/cristian20021/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/cristian20021/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/cristian20021/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2486-most-frequent-even-element](https://github.com/cristian20021/LeetCode/tree/master/2486-most-frequent-even-element) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/cristian20021/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/cristian20021/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/cristian20021/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/cristian20021/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
