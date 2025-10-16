@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/cristian20021/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/cristian20021/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/cristian20021/LeetCode/tree/master/0500-keyboard-row) |
+| [0566-reshape-the-matrix](https://github.com/cristian20021/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/cristian20021/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/cristian20021/LeetCode/tree/master/0598-range-addition-ii) |
 | [0611-valid-triangle-number](https://github.com/cristian20021/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/cristian20021/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0566-reshape-the-matrix](https://github.com/cristian20021/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/cristian20021/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1642-water-bottles](https://github.com/cristian20021/LeetCode/tree/master/1642-water-bottles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/cristian20021/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/cristian20021/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/cristian20021/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/cristian20021/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0566-reshape-the-matrix](https://github.com/cristian20021/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0794-swim-in-rising-water](https://github.com/cristian20021/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/cristian20021/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Sliding Window
