@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/cristian20021/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/cristian20021/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/cristian20021/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/cristian20021/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/cristian20021/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/cristian20021/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/cristian20021/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/cristian20021/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/cristian20021/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/cristian20021/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/cristian20021/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/cristian20021/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/cristian20021/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/cristian20021/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
