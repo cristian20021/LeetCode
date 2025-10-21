@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/cristian20021/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/cristian20021/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/cristian20021/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/cristian20021/LeetCode/tree/master/0100-same-tree) |
+| [0386-lexicographical-numbers](https://github.com/cristian20021/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/cristian20021/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/cristian20021/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/cristian20021/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
