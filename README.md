@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/cristian20021/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/cristian20021/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/cristian20021/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3055-maximum-odd-binary-number](https://github.com/cristian20021/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/cristian20021/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/cristian20021/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/cristian20021/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/cristian20021/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/cristian20021/LeetCode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [2998-count-symmetric-integers](https://github.com/cristian20021/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3055-maximum-odd-binary-number](https://github.com/cristian20021/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/cristian20021/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/cristian20021/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/cristian20021/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/cristian20021/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/cristian20021/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/cristian20021/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3055-maximum-odd-binary-number](https://github.com/cristian20021/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/cristian20021/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/cristian20021/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/cristian20021/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
