@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/cristian20021/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3799-unique-3-digit-even-numbers](https://github.com/cristian20021/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/cristian20021/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/cristian20021/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/cristian20021/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Greedy
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/cristian20021/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/cristian20021/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/cristian20021/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/cristian20021/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/cristian20021/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/cristian20021/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/cristian20021/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/cristian20021/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
