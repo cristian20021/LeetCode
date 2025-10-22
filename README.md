@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/cristian20021/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/cristian20021/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/cristian20021/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/cristian20021/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/cristian20021/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/cristian20021/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/cristian20021/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/cristian20021/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3336-water-bottles-ii](https://github.com/cristian20021/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3447-clear-digits](https://github.com/cristian20021/LeetCode/tree/master/3447-clear-digits) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/cristian20021/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/cristian20021/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/cristian20021/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/cristian20021/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -482,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/cristian20021/LeetCode/tree/master/3447-clear-digits) |
+## Game Theory
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/cristian20021/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
