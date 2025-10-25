@@ -4,12 +4,16 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        summ = 0
-        mondCount = 0
-        for i in range(1,n+1):
-            if i%7 == 0:
-                summ+=mondCount + 7
-                mondCount+=1
-            else:
-                summ+=mondCount+(i%7)
-        return summ
+        weeks = n//7
+        days = n%7
+        summ=0
+        if weeks==0:
+            for i in range(1,days+1):
+                summ+=i
+            return summ
+        else:
+            for i in range(1,days+1):
+                summ+=i+weeks
+            for j in range(weeks):
+                summ+=28+(j*7)
+            return summ
