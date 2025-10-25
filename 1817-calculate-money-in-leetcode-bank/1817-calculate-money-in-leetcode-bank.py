@@ -10,10 +10,10 @@ class Solution(object):
         if weeks==0:
             for i in range(1,days+1):
                 summ+=i
-            return summ
+        
         else:
             for i in range(1,days+1):
                 summ+=i+weeks
             for j in range(weeks):
                 summ+=28+(j*7)
-            return summ
+        return summ
