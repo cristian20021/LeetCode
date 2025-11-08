@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/cristian20021/LeetCode/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/cristian20021/LeetCode/tree/master/0461-hamming-distance) |
 | [1610-xor-operation-in-an-array](https://github.com/cristian20021/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/cristian20021/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1873-longest-nice-substring](https://github.com/cristian20021/LeetCode/tree/master/1873-longest-nice-substring) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/cristian20021/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/cristian20021/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cristian20021/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/cristian20021/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/cristian20021/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/cristian20021/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1764-maximum-repeating-substring](https://github.com/cristian20021/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/cristian20021/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/cristian20021/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/cristian20021/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/cristian20021/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Simulation
 |  |
 | ------- |
