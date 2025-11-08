@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/cristian20021/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/cristian20021/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/cristian20021/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2571-find-the-pivot-integer](https://github.com/cristian20021/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/cristian20021/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/cristian20021/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/cristian20021/LeetCode/tree/master/2955-account-balance-after-rounded-purchase) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/cristian20021/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/cristian20021/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2571-find-the-pivot-integer](https://github.com/cristian20021/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/cristian20021/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3034-points-that-intersect-with-cars](https://github.com/cristian20021/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/cristian20021/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
