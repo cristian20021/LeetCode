@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/cristian20021/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/cristian20021/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/cristian20021/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3582-find-indices-of-stable-mountains](https://github.com/cristian20021/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/cristian20021/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/cristian20021/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/cristian20021/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
