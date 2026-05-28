@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/cristian20021/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/cristian20021/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/cristian20021/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1920-build-array-from-permutation](https://github.com/cristian20021/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/cristian20021/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/cristian20021/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/cristian20021/LeetCode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/cristian20021/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/cristian20021/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1642-water-bottles](https://github.com/cristian20021/LeetCode/tree/master/1642-water-bottles) |
+| [1920-build-array-from-permutation](https://github.com/cristian20021/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/cristian20021/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/cristian20021/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/cristian20021/LeetCode/tree/master/2169-simple-bank-system) |
