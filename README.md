@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cristian20021/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/cristian20021/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/cristian20021/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/cristian20021/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/cristian20021/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/cristian20021/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/cristian20021/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/cristian20021/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/cristian20021/LeetCode/tree/master/0461-hamming-distance) |
 | [1610-xor-operation-in-an-array](https://github.com/cristian20021/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/cristian20021/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/cristian20021/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1873-longest-nice-substring](https://github.com/cristian20021/LeetCode/tree/master/1873-longest-nice-substring) |
 | [2206-divide-array-into-equal-pairs](https://github.com/cristian20021/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/cristian20021/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1524-string-matching-in-an-array](https://github.com/cristian20021/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1542-consecutive-characters](https://github.com/cristian20021/LeetCode/tree/master/1542-consecutive-characters) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/cristian20021/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/cristian20021/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/cristian20021/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/cristian20021/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/cristian20021/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/cristian20021/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/cristian20021/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/cristian20021/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/cristian20021/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1873-longest-nice-substring](https://github.com/cristian20021/LeetCode/tree/master/1873-longest-nice-substring) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/cristian20021/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -436,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/cristian20021/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/cristian20021/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/cristian20021/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/cristian20021/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/cristian20021/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/cristian20021/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
