@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2694-find-the-maximum-divisibility-score](https://github.com/cristian20021/LeetCode/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/cristian20021/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/cristian20021/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/cristian20021/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2836-neither-minimum-nor-maximum](https://github.com/cristian20021/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3034-points-that-intersect-with-cars](https://github.com/cristian20021/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/cristian20021/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/cristian20021/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/cristian20021/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/cristian20021/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/cristian20021/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2887-sort-vowels-in-a-string](https://github.com/cristian20021/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/cristian20021/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/cristian20021/LeetCode/tree/master/3194-find-words-containing-character) |
