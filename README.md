@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/cristian20021/LeetCode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/cristian20021/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/cristian20021/LeetCode/tree/master/0461-hamming-distance) |
+| [0868-binary-gap](https://github.com/cristian20021/LeetCode/tree/master/0868-binary-gap) |
 | [1610-xor-operation-in-an-array](https://github.com/cristian20021/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/cristian20021/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/cristian20021/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
