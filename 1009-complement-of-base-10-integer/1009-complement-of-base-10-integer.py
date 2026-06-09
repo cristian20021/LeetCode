@@ -4,11 +4,11 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        binary_rep = bin(n)[2:]
-        reversed_bin = ''
-        for i in binary_rep:
-            if i=='1':
-                reversed_bin+= '0'
-            else:
-                reversed_bin+= '1'
-        return int(reversed_bin,2)
+        reversed_int = 0
+        bin_n = bin(n)[2:]
+        ind = len(bin_n)-1
+        for i in bin_n:
+            if i == "0":
+                reversed_int+= 2**ind
+            ind-=1
+        return reversed_int
